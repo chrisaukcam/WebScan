@@ -1,0 +1,75 @@
+Twin Valley South,Panthers,West Alexandria,TVS,HS,CCC
+Tri-County North,Panthers,Lewisburg,TCN,HS,CCC
+National Trail,Blazers,Gettysburg,Trail,HS,CCC
+Tri-Village,Patriots,Madison,TV,HS,CCC
+Arcanum,Trojans,Arcanum,,HS,CCC
+Bethel,Bees,Bethel,,HS,CCC
+Newton,Indians,Pleasant Hill,,HS,CCC
+Franklin Monroe,Jets,Pitsburg,FM,HS,CCC
+Covington,Buccaneers,Covington,Buccs,HS,CCC
+Ansonia,Tigers,Ansonia,,HS,CCC
+Mississinawa Valley,Blackhawks,Union,Black Hawks,HS,CCC
+Fort Loramie,Redskins,Fort Loramie,,HS,CCC
+Bradford,Railroaders,Bradford,,HS,CCC
+Carlisle,Indians,Carlisle,,HS,SWBL
+Madison,Mohawks,Middletown,,HS,SWBL
+Eaton,Eagles,Eaton,,HS,SWBL
+Bellbrook,Eagles,Bellbrook,,HS,SWBL
+Oakwood,Lumber Jacks,Oakwood,Lumber Jills,HS,SWBL
+Milton,Bulldogs,Milton,,HS,SWBL
+Dixie,Greyhounds,New Lebanon,Hounds,HS,SWBL
+Brookville,Blue Devils,Brookville,,HS,SWBL
+Waynesville,Spartans,Waynesville,,HS,SWBL
+Northridge,Polar Bears,Northridge,,HS,SWBL
+Preble Shawnee,Arrows,Gratis,,HS,SWBL
+Valley View,Spartans,Germantown,,HS,SWBL
+Monroe,Bees,Monroe,,HS,SWBL
+Beavercreek,Beavers,Beavercreek,,HS,GWOC
+Centerville,Elks,Centerville,,HS,GWOC
+Fairmont,Firebird,Kettering,,HS,GWOC
+Lebanon,Warriors,Lebanon,,HS,GWOC
+Northmont,ThunderBolts,Clayton,Bolts,HS,GWOC
+Sidney,Yellow Jackets,Sidney,,HS,GWOC
+Springfield,Wildcats,Springfield,,HS,GWOC
+Tippecanoe,Red Devils,Tipp City,,HS,GWOC
+Troy,Trojan,Troy,,HS,GWOC
+West Carrollton,Pirates,West Carrollton,,HS,GWOC
+Vandalia-Butler,Aviator,Vandalia,Butler,HS,GWOC
+Greenville,Green Wave,Greenville,Wave,HS,GWOC
+Miamisburg,Vikings,Miamisburg,,HS,GWOC
+Piqua,Indians,Piqua,,HS,GWOC
+Springboro,Panthers,Springboro,,HS,GWOC
+Stebbins,Indians,Riverside,,HS,GWOC
+Trotwood-Madison,Rams,Trotwood,,HS,GWOC
+Wayne,Warriors,Wayne,,HS,GWOC
+Xenia,Buccaneers,Xenia,,HS,GWOC
+Yellow Springs,Bulldogs,Yellow Springs,,HS,MBC
+Dayton Christian,Warriors,Miamisburg,,HS,MBC
+Middletown Christian,Eagles,Middletown,,HS,MBC
+Jefferson,Broncos,Dayton,,HS,IND
+Emmanuel Christian,Cougers,Springfield,,HS,MBC
+Legacy Christian,Knights,Xenia,,HS,MBC
+Miami Valley,Rams,Kettering,,HS,MBC
+Troy Christian,Eagles,Troy,,HS,MBC
+Cincinnati Christian,Cougers,Fairfield,,HS,MVC
+Cincinnati Country Day,Indians,Cincinnati,Country Day,HS,MVC
+New Miami,Vikings,New Miami,,HS,MVC
+St. Henry,RedSkins,St. Henry,,HS,MAC
+Anna,Rockets,Anna,,HS,MAC
+Coldwater,Cavaliers,Coldwater,,HS,MAC
+Delphos St. Johns,Blue Jays,Delphos,,HS,MAC
+Fort Recovery,Indians,Fort Recovery,,HS,MAC
+Marion Local,Flyers,Maria Stein,,HS,MAC
+Minster,Wildcats,Minster,,HS,MAC
+New Breman,Cardinals,New Breman,,HS,MAC
+New Knoxville,Rangers,New Knoxville,,HS,MAC
+Park Way,Panthers,Rockford,,HS,MAC
+Versailles,Tigers,Versailles,,HS,MAC
+University of Dayton,Flyers,Dayton,UD,COL,A-10
+Miami,RedHawks,Oxford,,COL,MAC
+Wittenberg,Tigers,Springfield,,COL,NCAC
+Ohio State,Buckeyes,Columbus,Bucks,COL,BIG10
+,Bengals,Cincinnati,,PRO,NFL
+,Browns,Cleveland,,PRO,NFL
+,Reds,Cincinnati,,PRO,MLB
+Richmond,Red Devils,Richmond,,HS,NCC

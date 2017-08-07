@@ -1,0 +1,3 @@
+# properties file for web crawler
+teamfile=C:\\eclipse\\jee-neon\\workspace\\webcrawler\\src\\webcrawler\\resources\\team.txt
+sportywordfile=C:\\eclipse\\jee-neon\\workspace\\webcrawler\\src\\webcrawler\\resources\\sportywords.txt

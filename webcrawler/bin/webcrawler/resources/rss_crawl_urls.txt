@@ -1,0 +1,17 @@
+http://dailyadvocate.com/feed
+http://www.registerherald.com/feed
+http://www.englewoodindependent.com/feed
+http://www.fairborndailyherald.com/feed
+http://limaohio.com/feed
+http://www.hhcourier.com/feed
+http://www.dailycall.com/feed
+http://www.sidneydailynews.com/feed
+http://www.tdn-net.com/feed
+http://urbanacitizen.com/feed
+http://www.vandaliadrummernews.com/feed
+http://www.recordherald.com/feed
+http://www.wnewsj.com/feed
+http://www.xeniagazette.com/feed
+http://ysnews.com/feed
+https://www.earlybirdpaper.com/feed/
+http://rssfeeds.pal-item.com/richmond/sports
